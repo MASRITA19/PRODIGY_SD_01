@@ -48,3 +48,12 @@ If you'd like to contribute, please fork the repository and use a feature branch
 This project is licensed under the MIT License.
 ![image](https://github.com/MASRITA19/PRODIGY_SD_01/assets/90557850/502a6420-c944-4bc4-b5cd-8ad128659707)
 
+![image](https://github.com/MASRITA19/PRODIGY_SD_01/assets/90557850/c45da677-f01b-4a6a-821d-74263fa0bdeb)
+
+![image](https://github.com/MASRITA19/PRODIGY_SD_01/assets/90557850/2c9203d3-d2c3-4a04-9df6-41093b61948f)
+![image](https://github.com/MASRITA19/PRODIGY_SD_01/assets/90557850/a250bed5-8fef-466f-a97a-a2bd6b8cb8cd)
+
+![image](https://github.com/MASRITA19/PRODIGY_SD_01/assets/90557850/fa328765-5e4c-4124-85db-68f7b0844598)
+
+
+
