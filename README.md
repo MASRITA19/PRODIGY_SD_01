@@ -1,0 +1,48 @@
+# Temperature Converter App
+
+## Overview
+
+This is a simple temperature conversion application with a user-friendly graphical interface. It converts temperatures between Celsius, Fahrenheit, and Kelvin scales.
+
+## Features
+
+- Convert temperatures from Celsius to Fahrenheit and Kelvin.
+- Convert temperatures from Fahrenheit to Celsius and Kelvin.
+- Convert temperatures from Kelvin to Celsius and Fahrenheit.
+
+## Setup
+
+1. Ensure you have JDK 14 installed.
+2. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/TemperatureConverterApp.git
+    ```
+3. Open the project in Eclipse:
+    - File > Open Projects from File System > Directory... > Select the cloned repository.
+
+4. Ensure the project uses JDK 14:
+    - Right-click the project > Properties > Java Build Path > Libraries > Modulepath > Add Library... > JRE System Library > Alternate JRE > Installed JREs... > Add > Standard VM > Directory > Path to your JDK 14.
+
+5. Add the required module in `module-info.java`:
+    ```java
+    module com.tempconverter {
+        requires java.desktop;
+    }
+    ```
+
+## Running the Application
+
+1. Right-click on `TemperatureConverter.java`.
+2. Select `Run As` > `Java Application`.
+
+The application window will open, allowing you to enter a temperature, select the unit, and see the converted values in the other two units.
+
+## Contributing
+
+If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
+
+
+
+## License
+
+This project is licensed under the MIT License.
